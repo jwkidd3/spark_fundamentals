@@ -1,1 +1,9 @@
 Class code/data archive: https://tinyurl.com/wv2ylqt
+
+
+
+Code Snippet for IDE
+ val sconf = new SparkConf().setAppName("Word Count").
+    set("spark.ui.port","4141").setMaster("local[2]")
+    
+    val sc = new SparkContext(sconf)
