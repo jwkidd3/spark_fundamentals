@@ -7,3 +7,5 @@ Code Snippet for IDE
     set("spark.ui.port","4141").setMaster("local[2]")
     
     val sc = new SparkContext(sconf)
+
+https://medium.com/@aamargajbhiye/apache-spark-setup-a-multi-node-standalone-cluster-on-windows-63d413296971
