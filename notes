@@ -9,3 +9,6 @@ Code Snippet for IDE
     val sc = new SparkContext(sconf)
 
 https://medium.com/@aamargajbhiye/apache-spark-setup-a-multi-node-standalone-cluster-on-windows-63d413296971
+
+Hadoop Download
+https://archive.apache.org/dist/hadoop/common/hadoop-2.7.4/
